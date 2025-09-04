@@ -14,14 +14,34 @@ A comprehensive, enterprise-grade hotel room management system built with Java, 
 git clone https://github.com/jhonny1677/hotel-management-system.git
 cd hotel-management-system
 
-# Quick setup (Windows)
-./compile.bat
-./run.bat
+# OPTION 1: Complete GUI Application (Recommended)
+./compile.bat              # Compile all Java classes
+./run.bat                  # Launch full GUI application
 
-# Or use enhanced features
-./setup-demo-data.bat
-./run-simple.bat
+# OPTION 2: Simple GUI with Demo Data
+./setup-demo-data.bat      # Setup sample hotel data
+./run-simple.bat           # Launch simplified GUI
+
+# OPTION 3: Console Application
+./compile.bat
+java -cp "build;lib/*" ui.Main
+
+# OPTION 4: Enterprise Features Demo
+./test-enhanced-features.bat   # Run enterprise feature showcase
 ```
+
+### 📱 What Each Interface Offers:
+
+| Interface | Main Class | Features |
+|-----------|------------|----------|
+| **Enterprise GUI** | `ui.EnterpriseHotelManagementGUI` | 🏢 Full enterprise features: Analytics, Payment Gateway, Multi-user Auth |
+| **Simple GUI** | `ui.SimpleHotelGUI` | 🎯 Clean Swing interface: Room management, Booking, Amenities |
+| **Console UI** | `ui.Main` | 💻 Text-based: Perfect for servers, automation, batch operations |
+| **Standard GUI** | `ui.HotelManagementGUI` | 🖥️ Traditional desktop: Core hotel management features |
+
+### 🎯 **Recommended for Job Interviews**: 
+- **Enterprise GUI** (`./run.bat`) - Shows advanced architecture & enterprise patterns
+- **Console UI** (`java -cp "build;lib/*" ui.Main`) - Demonstrates clean code & business logic
 
 ## ✨ Key Features
 
