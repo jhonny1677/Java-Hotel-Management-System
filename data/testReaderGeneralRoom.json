@@ -1,0 +1,10 @@
+{
+    "roomNumber": 101,
+    "roomType": "Single",
+    "isAvailable": true,
+    "price": 100.0,
+    "amenities": ["WiFi", "TV"]
+}
+
+
+

@@ -1,0 +1,7 @@
+{
+    "roomNumber": -1,
+    "roomType": "Unknown",
+    "isAvailable": false,
+    "price": 0.0,
+    "amenities": []
+}

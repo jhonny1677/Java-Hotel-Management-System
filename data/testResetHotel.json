@@ -1,0 +1,706 @@
+{
+    "rooms": [
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 1,
+            "price": 100,
+            "roomType": "Single"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 2,
+            "price": 150,
+            "roomType": "Double"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 3,
+            "price": 350,
+            "roomType": "Suite"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 4,
+            "price": 100,
+            "roomType": "Single"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 5,
+            "price": 150,
+            "roomType": "Double"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 6,
+            "price": 300,
+            "roomType": "Suite"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 7,
+            "price": 100,
+            "roomType": "Single"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 8,
+            "price": 150,
+            "roomType": "Double"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 9,
+            "price": 300,
+            "roomType": "Suite"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 10,
+            "price": 100,
+            "roomType": "Single"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 11,
+            "price": 150,
+            "roomType": "Double"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 12,
+            "price": 300,
+            "roomType": "Suite"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 13,
+            "price": 100,
+            "roomType": "Single"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 14,
+            "price": 150,
+            "roomType": "Double"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 15,
+            "price": 300,
+            "roomType": "Suite"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 16,
+            "price": 100,
+            "roomType": "Single"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 17,
+            "price": 150,
+            "roomType": "Double"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 18,
+            "price": 300,
+            "roomType": "Suite"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 19,
+            "price": 100,
+            "roomType": "Single"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 20,
+            "price": 150,
+            "roomType": "Double"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 21,
+            "price": 300,
+            "roomType": "Suite"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 22,
+            "price": 100,
+            "roomType": "Single"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 23,
+            "price": 150,
+            "roomType": "Double"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 24,
+            "price": 300,
+            "roomType": "Suite"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 25,
+            "price": 100,
+            "roomType": "Single"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 26,
+            "price": 150,
+            "roomType": "Double"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 27,
+            "price": 300,
+            "roomType": "Suite"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 28,
+            "price": 100,
+            "roomType": "Single"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 29,
+            "price": 150,
+            "roomType": "Double"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 30,
+            "price": 300,
+            "roomType": "Suite"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 31,
+            "price": 100,
+            "roomType": "Single"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 32,
+            "price": 150,
+            "roomType": "Double"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 33,
+            "price": 300,
+            "roomType": "Suite"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 34,
+            "price": 100,
+            "roomType": "Single"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 35,
+            "price": 150,
+            "roomType": "Double"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 36,
+            "price": 300,
+            "roomType": "Suite"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 37,
+            "price": 100,
+            "roomType": "Single"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 38,
+            "price": 150,
+            "roomType": "Double"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 39,
+            "price": 300,
+            "roomType": "Suite"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 40,
+            "price": 100,
+            "roomType": "Single"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 41,
+            "price": 150,
+            "roomType": "Double"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 42,
+            "price": 300,
+            "roomType": "Suite"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 43,
+            "price": 100,
+            "roomType": "Single"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 44,
+            "price": 150,
+            "roomType": "Double"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 45,
+            "price": 300,
+            "roomType": "Suite"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 46,
+            "price": 100,
+            "roomType": "Single"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 47,
+            "price": 150,
+            "roomType": "Double"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 48,
+            "price": 300,
+            "roomType": "Suite"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 49,
+            "price": 100,
+            "roomType": "Single"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 50,
+            "price": 150,
+            "roomType": "Double"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 51,
+            "price": 300,
+            "roomType": "Suite"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 52,
+            "price": 100,
+            "roomType": "Single"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 53,
+            "price": 150,
+            "roomType": "Double"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 54,
+            "price": 300,
+            "roomType": "Suite"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 55,
+            "price": 100,
+            "roomType": "Single"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 56,
+            "price": 150,
+            "roomType": "Double"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 57,
+            "price": 300,
+            "roomType": "Suite"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 58,
+            "price": 100,
+            "roomType": "Single"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 59,
+            "price": 150,
+            "roomType": "Double"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 60,
+            "price": 300,
+            "roomType": "Suite"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 61,
+            "price": 100,
+            "roomType": "Single"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 62,
+            "price": 150,
+            "roomType": "Double"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 63,
+            "price": 300,
+            "roomType": "Suite"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 64,
+            "price": 100,
+            "roomType": "Single"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 65,
+            "price": 150,
+            "roomType": "Double"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 66,
+            "price": 300,
+            "roomType": "Suite"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 67,
+            "price": 100,
+            "roomType": "Single"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 68,
+            "price": 150,
+            "roomType": "Double"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 69,
+            "price": 300,
+            "roomType": "Suite"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 70,
+            "price": 100,
+            "roomType": "Single"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 71,
+            "price": 150,
+            "roomType": "Double"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 72,
+            "price": 300,
+            "roomType": "Suite"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 73,
+            "price": 100,
+            "roomType": "Single"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 74,
+            "price": 150,
+            "roomType": "Double"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 75,
+            "price": 300,
+            "roomType": "Suite"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 76,
+            "price": 100,
+            "roomType": "Single"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 77,
+            "price": 150,
+            "roomType": "Double"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 78,
+            "price": 300,
+            "roomType": "Suite"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 79,
+            "price": 100,
+            "roomType": "Single"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 80,
+            "price": 150,
+            "roomType": "Double"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 81,
+            "price": 300,
+            "roomType": "Suite"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 82,
+            "price": 100,
+            "roomType": "Single"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 83,
+            "price": 150,
+            "roomType": "Double"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 84,
+            "price": 300,
+            "roomType": "Suite"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 85,
+            "price": 100,
+            "roomType": "Single"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 86,
+            "price": 150,
+            "roomType": "Double"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 87,
+            "price": 300,
+            "roomType": "Suite"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 88,
+            "price": 100,
+            "roomType": "Single"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 89,
+            "price": 150,
+            "roomType": "Double"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 90,
+            "price": 300,
+            "roomType": "Suite"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 91,
+            "price": 100,
+            "roomType": "Single"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 92,
+            "price": 150,
+            "roomType": "Double"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 93,
+            "price": 300,
+            "roomType": "Suite"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 94,
+            "price": 100,
+            "roomType": "Single"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 95,
+            "price": 150,
+            "roomType": "Double"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 96,
+            "price": 300,
+            "roomType": "Suite"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 97,
+            "price": 100,
+            "roomType": "Single"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 98,
+            "price": 150,
+            "roomType": "Double"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 99,
+            "price": 300,
+            "roomType": "Suite"
+        },
+        {
+            "isAvailable": true,
+            "amenities": [],
+            "roomNumber": 100,
+            "price": 100,
+            "roomType": "Single"
+        }
+    ],
+    "name": "Hilton Hotel",
+    "location": "New York"
+}
