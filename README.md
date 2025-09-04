@@ -11,37 +11,54 @@ A comprehensive, enterprise-grade hotel room management system built with Java, 
 
 ```bash
 # Clone the repository
-git clone https://github.com/jhonny1677/hotel-management-system.git
-cd hotel-management-system
+git clone https://github.com/jhonny1677/Java-Hotel-Management-System.git
+cd Java-Hotel-Management-System
 
-# OPTION 1: Complete GUI Application (Recommended)
-./compile.bat              # Compile all Java classes
-./run.bat                  # Launch full GUI application
+# 🏆 RECOMMENDED: Complete Enterprise Demo (BEST FOR INTERVIEWS)
+./test-enhanced-features.bat   # Full enterprise features showcase
 
-# OPTION 2: Simple GUI with Demo Data
-./setup-demo-data.bat      # Setup sample hotel data
-./run-simple.bat           # Launch simplified GUI
-
-# OPTION 3: Console Application
-./compile.bat
-java -cp "build;lib/*" ui.Main
-
-# OPTION 4: Enterprise Features Demo
-./test-enhanced-features.bat   # Run enterprise feature showcase
+# Alternative Options:
+./compile.bat && ./run.bat          # Standard enterprise GUI
+./setup-demo-data.bat && ./run-simple.bat  # Simple GUI with demo data
+./compile.bat && java -cp "build;lib/*" ui.Main  # Console interface
 ```
 
-### 📱 What Each Interface Offers:
+### 🏆 **MAIN DEMO: test-enhanced-features.bat**
 
-| Interface | Main Class | Features |
-|-----------|------------|----------|
-| **Enterprise GUI** | `ui.EnterpriseHotelManagementGUI` | 🏢 Full enterprise features: Analytics, Payment Gateway, Multi-user Auth |
-| **Simple GUI** | `ui.SimpleHotelGUI` | 🎯 Clean Swing interface: Room management, Booking, Amenities |
-| **Console UI** | `ui.Main` | 💻 Text-based: Perfect for servers, automation, batch operations |
-| **Standard GUI** | `ui.HotelManagementGUI` | 🖥️ Traditional desktop: Core hotel management features |
+**This is the REAL application** with complete enterprise features:
 
-### 🎯 **Recommended for Job Interviews**: 
-- **Enterprise GUI** (`./run.bat`) - Shows advanced architecture & enterprise patterns
-- **Console UI** (`java -cp "build;lib/*" ui.Main`) - Demonstrates clean code & business logic
+```bash
+./test-enhanced-features.bat
+```
+
+**Login Credentials:**
+- **Guest User**: `guest@hotel.com` / `password123`
+- **Admin User**: Check the authentication system for full access
+
+**Features Demonstrated:**
+- 🏢 **9 Comprehensive Tabs** for different user roles
+- 💳 **Payment System Integration** with multiple gateways
+- 🔄 **Async Booking Cancellation** with real-time updates
+- 👤 **User Profile Management** with preferences & favorites
+- 🔔 **Notifications & Alerts** system
+- 🎁 **Loyalty Program Features** 
+- 📊 **Dynamic Pricing Engine**
+- 📈 **Advanced Analytics Dashboard** (Admin/Staff)
+- 💰 **Payment Processing** with transaction history
+- ⚙️ **System Management** tools
+- 👥 **User Management** (Admin only)
+
+### 📱 Interface Comparison:
+
+| Interface | Script | Best For | Features |
+|-----------|--------|----------|----------|
+| 🏆 **ENTERPRISE DEMO** | `./test-enhanced-features.bat` | **Job Interviews** | Complete enterprise features, multi-user, payments, analytics |
+| **Standard GUI** | `./run.bat` | General Demo | Core enterprise features |
+| **Simple GUI** | `./run-simple.bat` | Clean Interface | Basic hotel management |
+| **Console** | `java -cp "build;lib/*" ui.Main` | Technical Skills | Command-line interface |
+
+### 🎯 **For Recruiters/Interviewers**: 
+**Run `./test-enhanced-features.bat`** - This showcases the complete enterprise application with all advanced features!
 
 ## ✨ Key Features
 
