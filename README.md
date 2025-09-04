@@ -53,7 +53,7 @@ cd Java-Hotel-Management-System
 
 | Interface | Script | Best For | Features |
 |-----------|--------|----------|----------|
-| 🏆 **ENTERPRISE DEMO** | `./test-enhanced-features.bat` | **Job Interviews** | Complete enterprise features, multi-user, payments, analytics |
+| 🏆 **ENTERPRISE DEMO** | `./test-enhanced-features.bat` | **Full Application** | Complete enterprise features, multi-user, payments, analytics |
 | **Standard GUI** | `./run.bat` | General Demo | Core enterprise features |
 | **Simple GUI** | `./run-simple.bat` | Clean Interface | Basic hotel management |
 | **Console** | `java -cp "build;lib/*" ui.Main` | Technical Skills | Command-line interface |
@@ -374,7 +374,6 @@ The current architecture demonstrates solid software engineering principles with
 
 ---
 
-**Contact**: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:your.email@example.com) | [Portfolio](https://yourportfolio.com)
 
 **Keywords**: Java, Enterprise Software, Hotel Management, OOP, Design Patterns, Swing GUI, Multithreading, JSON, Testing, Software Architecture
 
