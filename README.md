@@ -32,8 +32,9 @@ cd Java-Hotel-Management-System
 ```
 
 **Login Credentials:**
-- **Guest User**: `guest@hotel.com` / `password123`
-- **Admin User**: Check the authentication system for full access
+- **Admin User**: `admin@hotel.com` / `password123` (Full access to all 9 tabs)
+- **Staff User**: `staff@hotel.com` / `password123` (Access to operational tabs)
+- **Guest User**: `guest@hotel.com` / `password123` (Guest-focused features)
 
 **Features Demonstrated:**
 - 🏢 **9 Comprehensive Tabs** for different user roles
@@ -58,7 +59,11 @@ cd Java-Hotel-Management-System
 | **Console** | `java -cp "build;lib/*" ui.Main` | Technical Skills | Command-line interface |
 
 ### 🎯 **For Recruiters/Interviewers**: 
-**Run `./test-enhanced-features.bat`** - This showcases the complete enterprise application with all advanced features!
+1. **Run `./test-enhanced-features.bat`** - This showcases the complete enterprise application
+2. **Login as Admin** (`admin@hotel.com` / `password123`) to see all 9 tabs and full functionality
+3. **Try different user roles** to see role-based access control in action
+
+💡 **Pro Tip**: The application shows different tabs based on user role - perfect for demonstrating enterprise security patterns!
 
 ## ✨ Key Features
 
